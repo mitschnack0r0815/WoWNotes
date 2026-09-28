@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: WoW Notes
+## Notes: Simple in-game notepad
+## Author: You
+## Version: 0.1
+## SavedVariables: WoWNotesDB
+
+# Core: data and rules (no UI)
+Core\Config.lua
+Core\Notes.lua
+
+# UI
+UI\Window.lua
+UI\MinimapButton.lua
+
+Core\Commands.lua
